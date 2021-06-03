@@ -1,6 +1,6 @@
 # calculator-electron
 
-A Cross platform calculator application made using javascript and electron
+A Cross platform calculator application made using javascript and Electron
 
 ![demo](./demo-app.png)
 
